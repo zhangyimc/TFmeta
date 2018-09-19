@@ -5,10 +5,10 @@ Yi Zhang (yi dot zhang at uky dot edu)
 
 ***
 ## Table of Contents
-* [Introduction](https://github.com/zhangyimc/DeepSplice/blob/master/README.md#introduction)
-* [Prerequisites](https://github.com/zhangyimc/DeepSplice/blob/master/README.md#prerequisites)
-* [Usage](https://github.com/zhangyimc/DeepSplice/blob/master/README.md#usage)
-* [Citation](https://github.com/zhangyimc/DeepSplice/blob/master/README.md#data)
+* [Introduction](https://github.com/zhangyimc/TFmeta/blob/master/README.md#introduction)
+* [Prerequisites](https://github.com/zhangyimc/TFmeta/blob/master/README.md#prerequisites)
+* [Usage](https://github.com/zhangyimc/TFmeta/blob/master/README.md#usage)
+* [Citation](https://github.com/zhangyimc/TFmeta/blob/master/README.md#citation)
 ***
 
 ## Introduction
@@ -20,6 +20,8 @@ Metabolic reprogramming is a hallmark of cancer. In cancer cells, transcription 
 * [scikit-learn](http://scikit-learn.org/stable/)
 * [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 * [SciPy](https://www.scipy.org/)
+
+## Usage
 
 ## Citation
 Zhang, Y., Zhang, X., Lane, A.N., Fan, T.W. and Liu, J., 2018, August. TFmeta: A Machine Learning Approach to Uncover Transcription Factors Governing Metabolic Reprogramming. In *Proceedings of the 2018 ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics* (pp. 351-359). ACM.
