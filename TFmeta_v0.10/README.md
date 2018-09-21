@@ -7,10 +7,10 @@ Yi Zhang (yi dot zhang at uky dot edu)
 
 ### Interaction Inference as a Feature Selection Problem
 
-'''
+```
  python interactionLearner.py \
  --profile ./test/regulationStatusMasterTable.txt \
  --network ./test/TFBindingProfiling_Glycolysis.txt \
  --out ./test/ranking_Glycolysis.txt \
  --score_file ./test/fit_scores_Glycolysis.txt
-'''
+```
