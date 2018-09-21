@@ -20,6 +20,7 @@ Metabolic reprogramming is a hallmark of cancer. In cancer cells, transcription 
 * [scikit-learn](http://scikit-learn.org/stable/)
 * [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 * [SciPy](https://www.scipy.org/)
+* [GCC](https://gcc.gnu.org/)
 
 ## Usage
 
