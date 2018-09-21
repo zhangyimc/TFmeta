@@ -5,7 +5,7 @@ Yi Zhang (yi dot zhang at uky dot edu)
 
 ## Manual
 
-### 
+### Interaction Inference as a Feature Selection Problem
 
 '''
  python interactionLearner.py \
