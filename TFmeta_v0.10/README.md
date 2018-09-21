@@ -5,7 +5,12 @@ Yi Zhang (yi dot zhang at uky dot edu)
 
 ## Manual
 
-### 1. Interaction Inference as a Feature Selection Problem
+### 1. Data preprocessing
+
+- Regulation status master table generated from RNA-Seq analysis: [regulationStatusMasterTable.txt](./test/regulationStatusMasterTable.txt)
+- Transcription factor binding profiles inferred from genome-wide ChIP-Seq experiments: [TFBindingProfiling_Glycolysis.txt](./test/regulationStatusMasterTable.txt)
+
+### 2. Interaction inference as a feature selection problem
 
 ```
  python interactionLearner.py \
@@ -19,7 +24,7 @@ Yi Zhang (yi dot zhang at uky dot edu)
  ./importanceMerge ./test/ranking_Glycolysis.txt ./test/ranking_Glycolysis_merged.txt
 ```
 
-### 2. TF ranking test
+### 3. TF ranking test
 
 ```
  python TFrankTest.py \
