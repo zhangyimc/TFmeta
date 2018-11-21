@@ -7,8 +7,7 @@ Yi Zhang (yi dot zhang at uky dot edu)
 
 ### 1. Data preprocessing
 
-- Regulation status master table generated from RNA-Seq analysis: [regulationStatusMasterTable.txt](./test/regulationStatusMasterTable.txt)
-- Transcription factor binding profiles inferred from genome-wide ChIP-Seq experiments: [TFBindingProfiling_Glycolysis.txt](./test/TFBindingProfiling_Glycolysis.txt)
+
 
 ### 2. Interaction inference as a feature selection problem
 
