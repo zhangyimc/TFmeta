@@ -7,7 +7,6 @@ Yi Zhang (yi dot zhang at uky dot edu)
 ## Table of Contents
 * Introduction
 * Prerequisites
-* Citation
 ***
 
 ## Introduction
