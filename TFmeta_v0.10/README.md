@@ -32,9 +32,3 @@ Yi Zhang (yi dot zhang at uky dot edu)
  --interaction ./test/ranking_Glycolysis_merged.txt \
  --ranks_table ./test/TFrankingTest_Glycolysis.txt
 ```
-
-## Citation
-Zhang, Y., Zhang, X., Lane, A.N., Fan, T.W. and Liu, J., 2018, August. TFmeta: A Machine Learning Approach to Uncover Transcription Factors Governing Metabolic Reprogramming. In *Proceedings of the 2018 ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics* (pp. 351-359). ACM.
-
-DOI: [https://doi.org/10.1145/3233547.3233580](https://doi.org/10.1145/3233547.3233580)
-
